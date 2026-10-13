@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Elon Tang</a> <img
+<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Yati Oo</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 <br />
@@ -16,7 +16,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <br />
 <br />
 
-Hi, I'm Elon Tang, a frontend engineer from China 🇨🇳. Dedicated to being a fullstack engineer.
+Hi, I'm Yati Oo, a frontend engineer from Myanmar. Dedicated to being a fullstack engineer.
 
 <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 
